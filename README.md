@@ -1,5 +1,5 @@
 # Introduction
-Hello, my name is F. A, I live in Bekasi, I study at the Telesandi Telecommunications Vocational School in Bekasi, and majoring in Software Engineering. My dream is to become a Full Stack Web Developer, and I also want to learn about Networking, and Cyber Security.
+Hello, my name is F. A, I live in Indonesia, I am now 16 years old, I study at the Telesandi Telecommunications Vocational School in Bekasi, and majoring in Software Engineering. My dream is to become a Full Stack Web Developer, and I also want to learn about Networking, and Cyber Security. I'm an IT fan since 2019, I also play my favorite game which is GTA San Andreas Multiplayer.
 
 ## Socials
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
