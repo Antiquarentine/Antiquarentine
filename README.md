@@ -11,6 +11,7 @@ Hello, my name is F. A, I live in Bekasi, I study at the Telesandi Telecommunica
 
 # GitHub Stats
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Antiquarentine&row=1)](https://github.com/Antiquarentine/github-profile-trophy)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Antiquarentine&theme=blue-green)](https://github.com/Antiquarentine/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antiquarentine&theme=blue-green)](https://github.com/Antiquarentine/github-readme-stats)
@@ -19,4 +20,5 @@ Hello, my name is F. A, I live in Bekasi, I study at the Telesandi Telecommunica
 
 ## Supports
 You can support me using the platform below!
+
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
